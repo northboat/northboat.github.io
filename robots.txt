@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /login/
+
+Sitemap: https://northboat.github.io/sitemap.xml
